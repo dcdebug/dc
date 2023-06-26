@@ -1,0 +1,3 @@
+### Linux Ulimit 內核參數
+ulimit 參數默認的是1024，如果想要修改更大：ulimit -n 10000 就可以修改
+
